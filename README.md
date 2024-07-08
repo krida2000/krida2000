@@ -33,7 +33,7 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
   <img align="left" alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
 </a>
-<a href="https://isocpp.org/">
+<a href="https://react.dev/">
   <img align="left" alt="React" src="https://img.shields.io/badge/React-53D2F3?logo=react&logoColor=white" />
 </a>
 <br/> <br/>
